@@ -19,7 +19,7 @@ are responsible.
 | Python | Data generation, EDA, visualization |
 | MySQL | Analytical SQL queries |
 | Power BI | Interactive operations dashboard |
-| GitHub | Version control and documentation |
+
 
 ## Analytical Approach
 1. Generated realistic synthetic dataset (50,000 rows)
