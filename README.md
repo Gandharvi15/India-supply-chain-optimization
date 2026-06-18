@@ -47,4 +47,4 @@ periods using SQL analysis and an interactive Power BI dashboard.
 
 ---
 
-## 📁 Project Structure
+
