@@ -1,0 +1,37 @@
+# Methodology
+
+## Problem Statement
+A logistics company is experiencing a 20%+ SLA breach rate — 
+deliveries are not reaching customers on time. This project 
+identifies which carriers, cities, pincodes, and time periods 
+are responsible.
+
+## Data
+- 50,000 synthetic orders generated using Python (numpy, pandas)
+- Designed to mirror real India logistics patterns:
+  - Carrier-wise breach probabilities based on market reputation
+  - City-wise multipliers (metro vs Tier-2 vs remote)
+  - Festive season spikes (October/November — Diwali)
+
+## Tools Used
+| Tool | Purpose |
+|---|---|
+| Python | Data generation, EDA, visualization |
+| MySQL | Analytical SQL queries |
+| Power BI | Interactive operations dashboard |
+| GitHub | Version control and documentation |
+
+## Analytical Approach
+1. Generated realistic synthetic dataset (50,000 rows)
+2. Loaded into MySQL for SQL-based breach analysis
+3. Exported aggregated views as CSVs
+4. Built EDA notebook with 6 analytical charts
+5. Built 3-page Power BI dashboard with drill-down
+
+## Key Findings
+- Overall breach rate: 22.1%
+- DTDC worst performer at 31.9% breach rate
+- Delhivery best performer at 14.1%
+- Remote cities (Guwahati, Patna) breach 30%+
+- October/November festive season spikes breach rate ~40%
+- Capacity Overload and Last Mile issues are top root causes

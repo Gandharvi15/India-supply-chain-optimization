@@ -1,0 +1,9 @@
+breach_reason,occurrences,pct_of_breaches,avg_delay_days
+"Incorrect Address",1435,12.97,3.01
+"High Volume Period",1410,12.75,2.95
+"Sorting Center Delay",1403,12.68,2.97
+"Last Mile Issue",1386,12.53,2.97
+"Capacity Overload",1375,12.43,3.00
+"Customs Hold",1361,12.30,2.99
+"Vehicle Breakdown",1361,12.30,3.04
+"Weather Delay",1332,12.04,2.99

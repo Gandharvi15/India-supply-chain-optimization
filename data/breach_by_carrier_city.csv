@@ -1,0 +1,21 @@
+carrier,destination_city,total_orders,breach_rate_pct,avg_delay_days
+DTDC,Guwahati,586,44.03,1.08
+DTDC,Patna,610,43.77,1.06
+Xpressbees,Patna,599,41.07,0.90
+Xpressbees,Guwahati,588,38.27,0.82
+DTDC,Lucknow,589,37.52,0.85
+DTDC,Jaipur,561,36.90,0.76
+"Ecom Express",Guwahati,593,36.76,0.78
+Xpressbees,Bhopal,632,36.71,0.73
+"Ecom Express",Patna,588,35.20,0.82
+DTDC,Bhopal,582,33.51,0.65
+Shadowfax,Guwahati,604,30.79,0.56
+"Ecom Express",Bhopal,621,30.76,0.60
+Xpressbees,Lucknow,550,30.36,0.53
+Shadowfax,Patna,609,28.90,0.50
+DTDC,Pune,585,28.89,0.52
+Xpressbees,Jaipur,566,28.09,0.49
+DTDC,Delhi,639,27.86,0.45
+"Amazon Logs",Guwahati,638,27.59,0.40
+DTDC,Kolkata,606,27.23,0.44
+"Amazon Logs",Patna,585,26.84,0.43
