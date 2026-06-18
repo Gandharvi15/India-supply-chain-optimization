@@ -23,13 +23,13 @@ periods using SQL analysis and an interactive Power BI dashboard.
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Overview](data/screenshots/page1_overview.png)
+![Overview](powerbi/screenshots/dashboard.png)
 
 ### Page 2 — Time & Operations Trends
-![Trends](data/screenshots/page2_trends.png)
+![Trends](powerbi/screenshots/time&ops.png)
 
 ### Page 3 — Drill Down Analysis
-![Drilldown](data/screenshots/page3_drilldown.png)
+![Drilldown](powerbi/screenshots/drill_down.png)
 
 ---
 
